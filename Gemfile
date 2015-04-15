@@ -14,6 +14,11 @@ group :development do
   gem 'rubypants', '~> 0.2.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
+  gem 'octopress', '~> 3.0.0.rc'
+end
+
+group :jekyll_plugins do
+  gem 'octopress-linkblog'
 end
 
 gem 'sinatra', '~> 1.4.2'
