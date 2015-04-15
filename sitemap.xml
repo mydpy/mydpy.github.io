@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mydpy.github.io/blog/introduction-to-spark/</loc>
+    <lastmod>2015-04-15T12:58:51-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://mydpy.github.io/blog/spark-presentation-for-captech-charlotte/</loc>
     <lastmod>2015-04-15T11:17:43-04:00</lastmod>
   </url>
@@ -15,5 +19,17 @@
   </url>
   <url>
     <loc>http://mydpy.github.io/presentations/</loc>
+  </url>
+  <url>
+    <loc>http://mydpy.github.io/blog/categories/spark/</loc>
+  </url>
+  <url>
+    <loc>http://mydpy.github.io/blog/categories/bigdata/</loc>
+  </url>
+  <url>
+    <loc>http://mydpy.github.io/blog/categories/data/</loc>
+  </url>
+  <url>
+    <loc>http://mydpy.github.io/blog/categories/presentation/</loc>
   </url>
 </urlset>
