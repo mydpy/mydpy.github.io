@@ -4,7 +4,7 @@
   <title><![CDATA[Myles Baker's Personal Blog]]></title>
   <link href="http://mydpy.github.io/atom.xml" rel="self"/>
   <link href="http://mydpy.github.io/"/>
-  <updated>2015-04-15T11:27:20-04:00</updated>
+  <updated>2015-04-15T11:46:01-04:00</updated>
   <id>http://mydpy.github.io/</id>
   <author>
     <name><![CDATA[Myles Baker]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Spark Presentation for CapTech Charlotte]]></title>
-    <link href="http://mydpy.github.io/blog/2015/04/15/spark-presentation-for-captech-charlotte/"/>
+    <link href="http://mydpy.github.io/blog/spark-presentation-for-captech-charlotte/"/>
     <updated>2015-04-15T11:17:43-04:00</updated>
-    <id>http://mydpy.github.io/blog/2015/04/15/spark-presentation-for-captech-charlotte</id>
+    <id>http://mydpy.github.io/blog/spark-presentation-for-captech-charlotte</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

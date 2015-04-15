@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
@@ -58,6 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # blog_index_asides:
 # post_asides:
 # page_asides:
+
+permalink_label: "&#9733;"
+permalink_label_feed: "&#9733;"
+linklog_marker:
+linklog_marker_position:
+linklog_marker_position_feed:
+standard_post_marker: "&#9733; "
 
 # ----------------------- #
 #   3rd Party Settings    #
