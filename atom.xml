@@ -4,7 +4,7 @@
   <title><![CDATA[Myles Baker's Personal Blog]]></title>
   <link href="http://mydpy.github.io/atom.xml" rel="self"/>
   <link href="http://mydpy.github.io/"/>
-  <updated>2015-04-15T13:03:21-04:00</updated>
+  <updated>2015-04-15T13:29:02-04:00</updated>
   <id>http://mydpy.github.io/</id>
   <author>
     <name><![CDATA[Myles Baker]]></name>
@@ -18,7 +18,18 @@
     <link href="http://mydpy.github.io/blog/introduction-to-spark/"/>
     <updated>2015-04-15T12:58:51-04:00</updated>
     <id>http://mydpy.github.io/blog/introduction-to-spark</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
