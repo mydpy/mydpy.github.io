@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Myles Baker's Personal Blog]]></title>
+  <link href="http://mydpy.github.io/atom.xml" rel="self"/>
+  <link href="http://mydpy.github.io/"/>
+  <updated>2015-04-15T10:13:54-04:00</updated>
+  <id>http://mydpy.github.io/</id>
+  <author>
+    <name><![CDATA[Myles Baker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Performance Tuning for Spark and Cassandra]]></title>
+    <link href="http://mydpy.github.io/blog/2015/04/15/performance-tuning-for-spark-and-cassandra/"/>
+    <updated>2015-04-15T10:13:33-04:00</updated>
+    <id>http://mydpy.github.io/blog/2015/04/15/performance-tuning-for-spark-and-cassandra</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
